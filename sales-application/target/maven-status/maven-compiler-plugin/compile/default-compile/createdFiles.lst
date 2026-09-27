@@ -1,0 +1,5 @@
+com\example\sales\SalesApplication.class
+com\example\sales\model\Sale.class
+com\example\sales\service\SalesService.class
+com\example\sales\client\GiftClient.class
+com\example\sales\controller\SalesController.class
